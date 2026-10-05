@@ -1,0 +1,6 @@
+{
+  "name": "JECRC University Fest 2026 - Renaissance & Technozion",
+  "description": "Official portal for Renaissance & Technozion '26 at JECRC University, Jaipur. Explore 45+ events, live schedules, digital QR passes, checkout registration, and venue radar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
